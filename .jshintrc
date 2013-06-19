@@ -6,5 +6,9 @@
   "undef": true,
   "browser": true,
   "devel": true,
-  "debug": true
+  "debug": true,
+  "globals": {
+    "Class": true
+    "exports": true
+  }
 }
